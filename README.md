@@ -1,3 +1,4 @@
+<div align="center">
 <h1 style="text-align:center " >
 
 <img alt="Static Badge" src="https://img.shields.io/badge/Paypal-Support%20Us-%232d2d2d?style=for-the-badge&logo=paypal&logoColor=%23ffffff&labelColor=%231c871a&color=%232d2d2d&link=https%3A%2F%2Fwww.paypal.com%2Fdonate%2F%3Fhosted_button_id%3DCG3K6T7R5TZL4">
